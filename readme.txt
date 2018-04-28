@@ -1,0 +1,2 @@
+Estos scripts han sido diseñados para trabajar con una conexion a base de datos configurada con el nombre de Mibase.
+Esta conexión ha de hacerse por medio de un conector ODCB como se explica en el documento de POWERPOINT acceso_a_datos.
